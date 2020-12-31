@@ -1,2 +1,4 @@
-# Ola_Mundo
- meu primeiro repositorio usando git e github
+# Olá, Mundo!
+ meu primeiro repositório usando git e github
+
+Repositório criado durante um curso online
